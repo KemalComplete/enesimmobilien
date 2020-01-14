@@ -1,6 +1,7 @@
 {
   "name": "enesimmobilien",
   "version": "0.1.0",
+  "homepage" : "http://feyyazay.github.io/enesimmobilien",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
