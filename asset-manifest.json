@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/enesimmobilien/static/css/main.ed0328e8.chunk.css",
+    "main.js": "/enesimmobilien/static/js/main.68e63fe0.chunk.js",
+    "main.js.map": "/enesimmobilien/static/js/main.68e63fe0.chunk.js.map",
+    "runtime-main.js": "/enesimmobilien/static/js/runtime-main.daa60c24.js",
+    "runtime-main.js.map": "/enesimmobilien/static/js/runtime-main.daa60c24.js.map",
+    "static/js/2.b1a96fbc.chunk.js": "/enesimmobilien/static/js/2.b1a96fbc.chunk.js",
+    "static/js/2.b1a96fbc.chunk.js.map": "/enesimmobilien/static/js/2.b1a96fbc.chunk.js.map",
+    "index.html": "/enesimmobilien/index.html",
+    "precache-manifest.1b7617d5315c901d1ffde634fd92bf26.js": "/enesimmobilien/precache-manifest.1b7617d5315c901d1ffde634fd92bf26.js",
+    "service-worker.js": "/enesimmobilien/service-worker.js",
+    "static/css/main.ed0328e8.chunk.css.map": "/enesimmobilien/static/css/main.ed0328e8.chunk.css.map",
+    "static/js/2.b1a96fbc.chunk.js.LICENSE": "/enesimmobilien/static/js/2.b1a96fbc.chunk.js.LICENSE",
+    "static/media/logo.svg": "/enesimmobilien/static/media/logo.56ded73b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daa60c24.js",
+    "static/js/2.b1a96fbc.chunk.js",
+    "static/css/main.ed0328e8.chunk.css",
+    "static/js/main.68e63fe0.chunk.js"
+  ]
+}
