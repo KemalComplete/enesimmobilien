@@ -3,12 +3,29 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  /* align-items: center; */
+  /* justify-content: center; */
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 a {
   text-decoration: none;
   user-select: none;
 }
+
+@font-face {
+  font-family: "Keep Calm";
+  font-style: normal;
+  font-weight: 400;
+  src: local("KeepCalm"), local("KeepCalm-Medium"),
+    url("fonts/KeepCalm-Medium.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Sulphur Point";
+  font-style: normal;
+  font-weight: 400;
+  src: local("SulphurPoint"), local("SulphurPoint-Bold"),
+    local("SulphurPoint-Light"), local("SulphurPoint-Regular"),
+    url("fonts/SulphurPoint-Regular.otf") format("otf");
+}
+
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Cookie|Didact+Gothic|Inconsolata|Josefin+Sans|Poiret+One&display=swap");
