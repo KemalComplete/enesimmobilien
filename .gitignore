@@ -22,3 +22,11 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 public/images
+
+/public/Properties/*/videos
+/public/Properties/*/images/original
+/public/Properties/*/images/*
+/public/Properties/*/plans/*
+*address.jpg
+*prices.jpg
+*prices.pdf
